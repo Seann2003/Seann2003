@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1VmV3qhtY_UrzarUbZxnnYlIthJ8mHNtAKuKRHboE3tY/edit?usp=sharing](https://docs.google.com/document/d/1VmV3qhtY_UrzarUbZxnnYlIthJ8mHNtAKuKRHboE3tY/edit?usp=sharing)
 
-- ⚡ Fun fact **Love to yap and join community events**
+- ⚡ Fun fact **I love to yap and join community events!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
