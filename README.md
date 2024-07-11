@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seann2003" alt="seann2003" /></a> </p>
 
-- 🌱 I’m currently learning **Solana**
+- 🌱 I’m currently learning **Solana development**
 
-- 👨‍💻 All of my projects are available at [seance.vercel.app](seance.vercel.app)
+- 👨‍💻 All of my projects are available at [seanhoe.vercel.app](seanhoe.vercel.app)
 
 - 💬 Ask me about **react, nextjs, typescript**
 
