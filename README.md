@@ -56,6 +56,7 @@ Graduate of rektoff.xyz, building production grade full stack applications, spec
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/-Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare Zero Trust](https://img.shields.io/badge/-ZeroTrust-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 ### AWS Services
 ![Amazon EKS](https://img.shields.io/badge/-Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
