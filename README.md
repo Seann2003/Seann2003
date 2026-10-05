@@ -6,10 +6,10 @@ Graduate of rektoff.xyz, building production grade full stack applications, spec
 ---
 
 ## About Me
-- Full Stack Developer @ Teel
+- Founding Engineer @ Teel
 - Former Superteam Malaysia Guild Lead
 - Former President of APU Hackthletes
-- Blockchain enthusiast working across Ethereum (Polygon/Mainnet/Arbitrum/Avalanche/Scroll) and Solana
+- Built products across different blockchains (Polygon/Mainnet/Arbitrum/Avalanche/Scroll/Tempo) and Solana
 - Bouldering and Dota 2 player in my free time
 
 **Contact:** seanhoekaizher@gmail.com
